@@ -29,7 +29,7 @@ const resumeHandler = () => {
     resume[`${option}`].forEach(item => {
       console.log(response("|    => " + item));
     });
-    console.log(response('-----------------------------------------------'));
+    console.log(response('------------------------------------------------'));
     inquirer
       .prompt({
         type: "list",
