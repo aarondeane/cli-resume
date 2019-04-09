@@ -1,0 +1,39 @@
+{
+  "Skills": [
+    "Javascript",
+    "React.js",
+    "Node.js",
+    "MogoDB",
+    "MySQL",
+    "PostgreSQL",
+    "Redux.js",
+    "Docker",
+    "Amazon Web Servives",
+    "Nginx",
+    "Jest.js",
+    "Enzyme.js",
+    "K6",
+    "Loader.io",
+    "Mocha.js",
+    "Chai.js",
+    "Google Firestore"
+  ],
+  "Projects": [
+    "BareBnB+: Backend Software Engineer",
+    "WatchMeReact: Frontend Software Engineer",
+    "TrimTab: Full Stack Software Engineer"
+  ],
+  "Experience": [
+    "Apple: Engineering Program Manager",
+    "Samsung: Senior Equipment Engineer and Engineering Manager"
+  ],
+  "Education": [
+    "B.S. Mechanical & Manufacturing Engineering Technology, Texas A&M University"
+  ],
+  "Contact Info": [
+    "aaronmdeane@gmail.com",
+    "(713) 582-4070",
+    "https://www.linkedin.com/in/aarondeane/",
+    "https://github.com/meandeane"
+  ]
+}
