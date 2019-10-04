@@ -1,21 +1,23 @@
 {
   "Skills": [
-    "Javascript",
+    "JavaScript",
     "React.js",
     "Node.js",
     "MogoDB",
     "MySQL",
     "PostgreSQL",
+    "GraphQL",
+    "Apollo",
     "Redux.js",
     "Docker",
-    "Amazon Web Servives",
+    "AWS",
     "Nginx",
     "Jest.js",
     "Enzyme.js",
-    "K6",
-    "Loader.io",
-    "Mocha.js",
-    "Chai.js",
+    "HTML",
+    "CSS",
+    "Materialize",
+    "Bootstrap",
     "Google Firestore"
   ],
   "Projects": [
@@ -28,12 +30,14 @@
     "Samsung: Senior Equipment Engineer and Engineering Manager"
   ],
   "Education": [
-    "B.S. Mechanical & Manufacturing Engineering Technology, Texas A&M University"
+    "B.S. Mechanical & Manufacturing Engineering Technology, Texas A&M University",
+    "Hack Reactor Advanced Software Engineering Immersive"
   ],
   "Contact Info": [
     "aaronmdeane@gmail.com",
     "(713) 582-4070",
     "https://www.linkedin.com/in/aarondeane/",
-    "https://github.com/meandeane"
+    "https://aarondeane.github.io",
+    "https://github.com/aarondeane"
   ]
 }
